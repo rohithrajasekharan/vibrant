@@ -11,3 +11,5 @@ public/static
 "sendgrid.env" 
 "sendgrid.env" 
 "sendgrid.env" 
+
+.vercel
